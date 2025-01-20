@@ -39,3 +39,5 @@ Explore free templates on Google, TemplateMonster, or ThemeForest.
 Utilize icon libraries like Font Awesome or Material Design Icons.
 
 ##Output:
+
+<img width="860" alt="Image" src="https://github.com/user-attachments/assets/4b21b1d5-06c7-4f5f-a3a7-f7a4cc638c42" />
